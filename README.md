@@ -19,3 +19,15 @@
 
 ## Activity 4
 ![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/bb181718-9837-4a9e-aa01-c3f544efb9e2)
+
+## Activity 5
+### Commits on branch "rebase": c1, c2
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/aa3a975a-8d20-4721-b315-39f8c4a13ae8)
+### Commits on branch "develop": c3, c4
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/5b834db7-c032-44ef-9099-c854a0c94d78)
+### Rebasing process:
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/435c6ef8-59a3-4ff2-b29b-952c016d221e)
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/af53e7a5-0fa6-4999-a6b1-c64a147fbc4a)
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/a93b068e-9ac5-4d58-b8e3-53e4ba18649a)
+### Final order of commits (after rebasing): c3, c4, c1, c2
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/8b9286fe-1f53-4992-8e09-71bcc9b85ea4)
