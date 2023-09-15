@@ -17,3 +17,5 @@
 ### After merging:
 ![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/251182f0-2efa-418e-8192-374aa74d4db5)
 
+## Activity 4
+![image](https://github.com/mayawarrier/ECE444-F2023-Assignment1/assets/34803055/bb181718-9837-4a9e-aa01-c3f544efb9e2)
